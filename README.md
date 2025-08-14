@@ -1,3 +1,6 @@
+항상 실행시 gpt api key 삽입하고 실행할 것 안그러면 실행은 되는데 종목코드 분류가 안돼서 저장만 됨
+
+
 DB2_HOST=localhost
 DB2_PORT=3306
 DB2_USER=stockAdm
